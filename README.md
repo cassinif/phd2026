@@ -30,3 +30,9 @@ The schedule is the following:
 * Every Monday and Wednesday, from January 12 to February 11, from 15:30 to 17:30.
 
 Every lecture will be streamed on zoom (the link is available upon request).
+
+For in-person participants the rooms are:
+* January 12: Room H
+* January 14, 19, 21, 26, 28: Meeting Room (Second Floor)
+* February 2, 4, 11: Meeting Room (Second Floor)
+* February 9: Room I
