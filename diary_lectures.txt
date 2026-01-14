@@ -1,3 +1,6 @@
 Lecture 1 (12/01/2025, 2h): A-stability, forward Euler, backward Euler,
 trapezoidal method, stiffness, hints about computation of matrix exponential
 and phi-functions.
+
+Lecture 2 (14/01/2025, 2h): Introduction to exponential integrators, exponential
+Euler method, convergence proof, hints on IMEX methods (backward-forward Euler)
