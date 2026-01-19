@@ -4,3 +4,7 @@ and phi-functions.
 
 Lecture 2 (14/01/2025, 2h): Introduction to exponential integrators, exponential
 Euler method, convergence proof, hints on IMEX methods (backward-forward Euler)
+
+Lecture 3 (19/01/2025, 2h): Implementation of exponential Euler and BF Euler for
+nonlinear diffusion equation, space discretization with inner nodes,
+diagonalization, bounds on the infinity and two norm for matrix exponential.
