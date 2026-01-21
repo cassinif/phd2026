@@ -8,3 +8,6 @@ Euler method, convergence proof, hints on IMEX methods (backward-forward Euler)
 Lecture 3 (19/01/2025, 2h): Implementation of exponential Euler and BF Euler for
 nonlinear diffusion equation, space discretization with inner nodes,
 diagonalization, bounds on the infinity and two norm for matrix exponential.
+
+Lecture 4 (21/01/2025, 2h): Exponential quadrature rules with 1 point
+(derivation and full proof) and their implementation.
