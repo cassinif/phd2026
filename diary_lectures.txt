@@ -1,20 +1,23 @@
-Lecture 1 (12/01/2025, 2h): A-stability, forward Euler, backward Euler,
+Lecture 1 (12/01/2026, 2h): A-stability, forward Euler, backward Euler,
 trapezoidal method, stiffness, hints about computation of matrix exponential
 and phi-functions.
 
-Lecture 2 (14/01/2025, 2h): Introduction to exponential integrators, exponential
+Lecture 2 (14/01/2026, 2h): Introduction to exponential integrators, exponential
 Euler method, convergence proof, hints on IMEX methods (backward-forward Euler)
 
-Lecture 3 (19/01/2025, 2h): Implementation of exponential Euler and BF Euler for
+Lecture 3 (19/01/2026, 2h): Implementation of exponential Euler and BF Euler for
 nonlinear diffusion equation, space discretization with inner nodes,
 diagonalization, bounds on the infinity and two norm for matrix exponential.
 
-Lecture 4 (21/01/2025, 2h): Exponential quadrature rules with 1 point
+Lecture 4 (21/01/2026, 2h): Exponential quadrature rules with 1 point
 (derivation and full proof) and their implementation.
 
-Lecture 5 (26/01/2025, 2h): Additional assumptions for Schroedinger operator,
+Lecture 5 (26/01/2026, 2h): Additional assumptions for Schroedinger operator,
 connections with semigroup theory. Introduction to higher order integrators
 for semilinear equations.
 
-Lecture 6 (28/01/2025, 2h): Exponential Runge--Kutta methods and their
+Lecture 6 (28/01/2026, 2h): Exponential Runge--Kutta methods and their
 implementation. Lawson methods.
+
+Lecture 7 (02/02/2026, 2h): Taylor and Padé formulas for exp, phi1, phi2
+functions, (modified) scaling and squaring, Paterson-Stockmeyer algorithm
