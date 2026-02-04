@@ -21,3 +21,6 @@ implementation. Lawson methods.
 
 Lecture 7 (02/02/2026, 2h): Taylor and Padé formulas for exp, phi1, phi2
 functions, (modified) scaling and squaring, Paterson-Stockmeyer algorithm
+
+Lecture 8 (04/02/2026, 2h): Backward error analysis for Taylor expansion,
+interpolation, action of matrix functions
