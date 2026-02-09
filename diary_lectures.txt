@@ -24,3 +24,6 @@ functions, (modified) scaling and squaring, Paterson-Stockmeyer algorithm
 
 Lecture 8 (04/02/2026, 2h): Backward error analysis for Taylor expansion,
 interpolation, action of matrix functions
+
+Lecture 9 (09/02/2026, 2h): Exponential Rosenbrock--Euler method, derivation
+and convergence proof, non-autonomous case, (standard) Rosenbrock methods
