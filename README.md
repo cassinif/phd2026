@@ -1,4 +1,4 @@
-# PhD course 2026 -- Advances in Numerical Analysis and Mathematical Modelling: exponential integrators for evolutionary quations
+# PhD course 2026 -- Advances in Numerical Analysis and Mathematical Modelling: exponential integrators for evolutionary equations
 
 Lecturers: **Marco Caliari** and **Fabio Cassini**
 
